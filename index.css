@@ -249,7 +249,7 @@ hr {
 @media (min-width: 1280px) and (max-width: 1920px) {
     #card-section {
         width: 1000px;
-        padding: 350px 0px;
+        padding: 250px 0px;
     }
 
     .card {
