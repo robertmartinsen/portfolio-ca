@@ -264,6 +264,14 @@ hr {
         height: 200px;
     }
 
+    .card-link {
+        display: inline-block;
+        margin-left: 50px;
+        padding: 1rem 1rem;
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+
     .project-desc {
         padding: 0px 0px 30px;
         font-size: 17px;
